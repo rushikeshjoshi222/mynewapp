@@ -1,6 +1,10 @@
 <?php
 
+
 /*testing123
+
+
+
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
  *---------------------------------------------------------------
@@ -16,7 +20,7 @@
  *     production
  *
  * NOTE: If you change these, also change the error_reporting() code below
- *
+ *test123
  */
 	define('ENVIRONMENT', 'development');
 /*
